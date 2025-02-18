@@ -4,19 +4,16 @@
 
 Welcome to my **GitHub Universe!** 🌎✨ I'm Ken, a passionate **data enthusiast** diving deep into the world of **Data Analysis**. Currently, I'm on a journey to master the art of **turning raw data into actionable insights**!  
 
----
+---  
 
 ## 🛠️ Tech Stack & Tools I Work With  
 
-| Technology  | Logo  |  
-|-------------|--------|  
-| **Excel** 📊 | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  |  
-| **Power BI** 📈 | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  |  
-| **MySQL** 🗄️ | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  |  
-| **Azure** ☁️ | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  |  
-| **Python** 🐍 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  |  
+| **Excel** 📊 | **Power BI** 📈 | **MySQL** 🗄️ | **Azure** ☁️ | **Python** 🐍 |  
+|-------------|---------------|-------------|------------|------------|  
+| ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |  
 
 I'm **constantly learning** and leveling up my skills! 🚀  
+
 
 ---
 
