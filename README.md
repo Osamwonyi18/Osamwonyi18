@@ -25,10 +25,6 @@ I'm **constantly learning** and leveling up my skills! 🚀
 🔹 Practicing **SQL queries & data visualization**  
 🔹 Learning more about **Python**  
 
-💼 **Recent Projects:**  
-🔸 **Retail Sales Analysis** – [📂 GitHub Repo](#)  
-🔸 **Customer Insights Dashboard (Power BI)** – [📂 GitHub Repo](#)  
-🔸 **SQL Data Cleaning & Analysis** – [📂 GitHub Repo](#)  
 
 Check out my repos to see my progress! 🚀  
 
