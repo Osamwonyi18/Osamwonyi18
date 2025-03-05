@@ -1,8 +1,8 @@
 # 👋 Hey there! I'm Ken Enobakhare  
 
-### 🚀 Data Enthusiast | 📊 Aspiring Data Analyst | 🧠 Lifelong Learner  
+###  Data Enthusiast | 📊 Aspiring Data Analyst | 🧠 Lifelong Learner  
 
-Welcome to my **GitHub Universe!** 🌎✨ I'm Ken, a passionate **data enthusiast** diving deep into the world of **Data Analysis**. Currently, I'm on a journey to master the art of **turning raw data into actionable insights**!  
+Welcome to my **GitHub Page!** I'm Ken, a passionate **data enthusiast** diving deep into the world of **Data Analysis**. Currently, I'm on a journey to master the art of **turning raw data into actionable insights**!  
 
 ---  
 
