@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Ken.E  
+# 👋 Hey there! I'm Ken Enobakhare  
 
 ### 🚀 Data Enthusiast | 📊 Aspiring Data Analyst | 🧠 Lifelong Learner  
 
@@ -32,10 +32,10 @@ Check out my repos to see my progress! 🚀
 
 ## 📫 Let's Connect!  
 
-💬 Feel free to **reach out** if you want to chat about **data, analytics, or tech**!  
+💬 I’m always happy to discuss data, analytics, and technology.  
 
-📧 Email: **[Your Email]**  
+📧 Email: drken18@gmail.com 
 
-⭐ **"Data is the new oil, and I'm here to refine it!"** 🚀  
+🚀 Open to opportunities! I’m looking for roles that will allow me to grow, apply my skills, and contribute to meaningful projects. If you’re hiring or have an opportunity that aligns with my background, let’s talk!  
 
 
