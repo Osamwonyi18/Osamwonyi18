@@ -6,7 +6,7 @@ Welcome to my **GitHub Page!** I'm Ken, a passionate **data enthusiast** diving 
 
 ---  
 
-## 🛠️ Tech Stack & Tools I Work With  
+##  Tech Stack & Tools I Work With  
 
 | **Excel** 📊 | **Power BI** 📈 | **MySQL** 🗄️ | **Azure** ☁️ | **Python** 🐍 |  
 |-------------|---------------|-------------|------------|------------|  
@@ -36,6 +36,6 @@ Check out my repos to see my progress! 🚀
 
 📧 Email: drken18@gmail.com 
 
-🚀 Open to opportunities! I’m looking for roles that will allow me to grow, apply my skills, and contribute to meaningful projects. If you’re hiring or have an opportunity that aligns with my background, let’s talk!  
+Open to opportunities! I’m looking for roles that will allow me to grow, apply my skills, and contribute to meaningful projects. If you’re hiring or have an opportunity that aligns with my background, let’s talk!  
 
 
