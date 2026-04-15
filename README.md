@@ -1,4 +1,4 @@
-# Hi, I'm Ken Enobakhare
+# Hi, I'm Ken Nobak
 
 Building **[FractalCycles](https://fractalcycles.com)**, a platform for detecting statistically validated cycles in financial market data using signal processing and rescaled range analysis.
 
