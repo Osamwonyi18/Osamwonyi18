@@ -1,41 +1,47 @@
-# 👋 Hey there! I'm Ken Enobakhare  
+# Hi, I'm Ken Enobakhare
 
-###  Data Enthusiast | 📊 Aspiring Data Analyst | 🧠 Lifelong Learner  
+Building **[FractalCycles](https://fractalcycles.com)**, a platform for detecting statistically validated cycles in financial market data using signal processing and rescaled range analysis.
 
-Welcome to my **GitHub Page!** I'm Ken, a passionate **data enthusiast** diving deep into the world of **Data Analysis**. Currently, I'm on a journey to master the art of **turning raw data into actionable insights**!  
-
----  
-
-##  Tech Stack & Tools I Work With  
-
-| **Excel** 📊 | **Power BI** 📈 | **MySQL** 🗄️ | **Azure** ☁️ | **Python** 🐍 |  
-|-------------|---------------|-------------|------------|------------|  
-| ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |  
-
-I'm **constantly learning** and leveling up my skills! 🚀  
-
+I started out in data analytics (Excel, SQL, Power BI) and kept pulling the thread until I landed in applied DSP and quantitative methods. FractalCycles is where that path ended up.
 
 ---
 
-## 📊 What I'm Working On  
+## What I'm Building
 
-💡 **Current Focus:**  
-🔹 Building **data-driven projects** using **Excel, Power BI, MySQL, and Python**  
-🔹 Exploring **Azure** for cloud-based data solutions  
-🔹 Practicing **SQL queries & data visualization**  
-🔹 Learning more about **Python**  
+**[FractalCycles](https://fractalcycles.com)** applies classical signal processing to price data:
 
+- **Goertzel DFT** for spectral analysis of individual frequencies
+- **Bartels test** for statistical significance of detected cycles
+- **Hurst exponent (R/S analysis)** for regime classification (mean-reverting vs trending vs random walk)
+- **Composite wave reconstruction** for visualising the dominant cyclical structure
 
-Check out my repos to see my progress! 🚀  
+The platform runs across equities, FX, commodities, and crypto. Free tier available.
 
 ---
 
-## 📫 Let's Connect!  
+## Open Source
 
-💬 I’m always happy to discuss data, analytics, and technology.  
+- **[hurst-calculator](https://github.com/Osamwonyi18/hurst-calculator)**: standalone Python implementation of rescaled range analysis for estimating the Hurst exponent. Same methodology used inside FractalCycles, stripped down for clarity.
 
-📧 Email: drken18@gmail.com 
+---
 
-Open to opportunities! I’m looking for roles that will allow me to grow, apply my skills, and contribute to meaningful projects. If you’re hiring or have an opportunity that aligns with my background, let’s talk!  
+## Technical Stack
 
+**Languages:** Python, TypeScript, SQL
+**Backend:** Node.js, Fastify, PostgreSQL, Redis, Prisma
+**Frontend:** Next.js 14, React, Tailwind, TanStack Query
+**Data:** NumPy, signal processing (Goertzel, FFT, rescaled range)
+**Infra:** Docker, Railway, GitHub Actions
 
+## Earlier Data Analytics Work
+
+Before FractalCycles, I completed a data analytics bootcamp with JustIT Training UK. Those projects are still pinned below if you want to see the progression.
+
+---
+
+## Contact
+
+- Website: [fractalcycles.com](https://fractalcycles.com)
+- Email: drken18@gmail.com
+
+Open to conversations about quant methods, signal processing applied to markets, or cycle detection generally.
